@@ -2,6 +2,22 @@
     padding:0px 100px;
 }
 
+h2 {
+  font-family: 'Dosis', sans-serif !important;
+  font-size: 54px !important;
+  letter-spacing: 2px !important;
+  text-transform: capitalize !important;
+}
+
+img {
+  z-index: -2;
+  position: relative;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+}
+
 .intro {
     float: left;
     display: block;
