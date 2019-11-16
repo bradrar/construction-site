@@ -8,7 +8,7 @@
     position: absolute;
     top: 40%;
     left: 40%;
-    background-color: aliceblue;
+    background-color: #D0B7A9;;
     padding: 10px 50px;
     opacity: 0.5;
 }
@@ -18,7 +18,7 @@
         position: absolute;
         top: 45%;
         left: 30%;
-        background-color: aliceblue;
+        background-color: #D0B7A9;;
         padding: 5px 25px;
     }
   }

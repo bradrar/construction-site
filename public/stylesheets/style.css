@@ -3,9 +3,13 @@ body {
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
-a {
-  color: #00B7FF;
+div a {
+  color: #D0B7A9;
 }
+
+div a:hover {
+	color: #D0B7A9 ;
+  }
 
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
