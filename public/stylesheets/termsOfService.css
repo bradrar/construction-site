@@ -1,24 +1,29 @@
+.terms-margin {
+    margin-top: 50px;
+}
+
 #about-img {
     z-index: -2;
     width: 100%;
     position: relative;
 }
 
-#title-about {
+#title-terms {
     position: absolute;
     top: 40%;
-    left: 40%;
-    background-color: #D0B7A9;
+    left: 30%;
+    background-color:  #D0B7A9;
     padding: 10px 50px;
     opacity: 0.5;
 }
 
 @media only screen and (max-width: 600px) {
-    #title-about {
+    #title-terms {
         position: absolute;
         top: 45%;
-        left: 30%;
-        background-color: #D0B7A9;
+        left: 23%;
+        background-color:  #D0B7A9;
         padding: 5px 25px;
+        width: 60%;
     }
   }

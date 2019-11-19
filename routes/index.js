@@ -12,26 +12,15 @@ router.get('/about', (req, res) => {
 });
 
 
-router.get('/services', (req, res) => {
-  res.render('services');
+router.get('/terms-of-service', (req, res) => {
+  res.render('terms-of-service');
 });
 
 
-router.get('/projects', (req, res) => {
-  res.render('projects');
+router.get('/privacy-policy', (req, res) => {
+  res.render('privacy-policy');
 });
 
-
-
-router.get('/news', (req, res) => {
-  res.render('news');
-});
-
-
-
-router.get('/careers', (req, res) => {
-  res.render('careers');
-});
 
 
 
